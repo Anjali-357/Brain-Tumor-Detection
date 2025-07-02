@@ -64,9 +64,7 @@ fastlane/test_output
 venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.env
+uploads/
 .DS_Store
-*.keras
-*.h5
+.env
+
