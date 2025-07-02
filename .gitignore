@@ -8,13 +8,3 @@ models/*.keras
 *.h5
 /uploads/
 .env
-
-
-
-
-
-
-
-
-
-
